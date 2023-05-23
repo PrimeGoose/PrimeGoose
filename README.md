@@ -15,15 +15,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Primegoose&theme=dark#gh-dark-mode-only)](https://www.linkedin.com/in/politecat/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=primegoose&theme=dark#gh-dark-mode-only)](https://www.linkedin.com/in/politecat/)
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=primegoose&show_icons=true&theme=dark#gh-dark-mode-only)](https://www.linkedin.com/in/politecat/)
 
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Primegoose&theme=dark#gh-dark-mode-only)](https://www.linkedin.com/in/politecat/)
+
+
 
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=primegoose&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=primegoose&theme=dark#gh-dark-mode-only)](https://www.linkedin.com/in/politecat/)
+
 
 [![wakatime](https://wakatime.com/badge/user/e546149a-762f-44c5-9e90-045af104fdfa.svg)](https://wakatime.com/@e546149a-762f-44c5-9e90-045af104fdfa)
 
