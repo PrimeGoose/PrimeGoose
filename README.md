@@ -28,3 +28,8 @@ Here are some ideas to get you started:
 [![wakatime](https://wakatime.com/badge/user/e546149a-762f-44c5-9e90-045af104fdfa.svg)](https://wakatime.com/@e546149a-762f-44c5-9e90-045af104fdfa)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=primegoose&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=846&fire=FF0000&border=EB1818&ring=A000007F&sideNums=EB0000&currStreakNum=EBEBEB&sideLabels=EBEBEB&stroke=0A0C05&currStreakLabel=EBEBEB&dates=987373&background=000000)](https://git.io/streak-stats)
+
+
+
+
+[![wakatime embed](https://wakatime.com/share/@Primegoose/244ecc59-9339-4ee3-bc79-e15a688063d0.svg)](https://www.linkedin.com/in/politecat/)
