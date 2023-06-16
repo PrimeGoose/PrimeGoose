@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/politecat/">
-  <img src="rust2.jpg" alt="Harlok's wakatime stats" width="846">
+  <img src="sun.jpg" alt="Harlok's wakatime stats" width="846">
 </a>
 
 <a href="https://www.linkedin.com/in/politecat/">
