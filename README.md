@@ -1,9 +1,28 @@
-<a href="https://www.linkedin.com/in/politecat/">
-  <img src="rust2.jpg" alt="Harlok's wakatime stats" width="846">
-</a>
+# Hi, I'm Kaspars 👋
 
-<a href="https://www.linkedin.com/in/politecat/">
-  <img src="https://wakatime.com/share/@Primegoose/8f583e41-7b43-4db4-a532-ac68a606a07b.svg" alt="Harlok's wakatime stats" width="846">
-</a>
+Full-stack developer based in **Switzerland**, open to **remote roles in CH / DE / UK**.
 
+I build complete products end to end: TypeScript front ends and APIs, PostgreSQL back ends, scraping and data pipelines, automated deployments and native iOS apps.
 
+## Stack
+
+| Area | Technologies |
+|---|---|
+| Languages | TypeScript, JavaScript, Python, Swift, SQL |
+| Front end | Angular, React, Tailwind CSS, RxJS |
+| Back end & data | Node.js, Supabase / PostgreSQL, REST APIs |
+| Automation | Playwright, scheduled data pipelines |
+| DevOps | Docker, nginx, GitHub Actions |
+| Mobile | SwiftUI |
+
+## About this profile
+
+Most of my work lives in private repositories, so this profile shows only a small part of it. Generic showcase repositories with tests and CI are coming soon.
+
+I use AI coding assistants in my workflow; I write the specs, then review and test what goes in.
+
+## Public projects
+
+- **[kalnins-merch](https://github.com/PrimeGoose/kalnins-merch)** – Angular 17 + Supabase demo store ([live demo](https://primegoose.github.io/kalnins-merch/))
+- **[label_maker_tool](https://github.com/PrimeGoose/label_maker_tool)** – Angular tool that turns Excel lists into printable A4 label sheets ([live demo](https://primegoose.github.io/label_maker_tool/))
+- **[youtube_chat_in_twitch](https://github.com/PrimeGoose/youtube_chat_in_twitch)** – Chrome extension to toggle YouTube live chat on Twitch
