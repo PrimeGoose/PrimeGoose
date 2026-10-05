@@ -26,6 +26,9 @@ I use AI coding assistants in my workflow; I write the specs, then review and te
 - **[f1-telemetry-mcp](https://github.com/PrimeGoose/f1-telemetry-mcp)** – TypeScript MCP server exposing live F1 game UDP telemetry to LLM agents, with evals
 - **[stripe-checkout-hono-react](https://github.com/PrimeGoose/stripe-checkout-hono-react)** – Stripe Checkout + webhooks with Hono and React, Playwright e2e tests
 - **[f1-telemetry-dashboard](https://github.com/PrimeGoose/f1-telemetry-dashboard)** – React + Vite real-time F1 telemetry dashboard ([live demo](https://primegoose.github.io/f1-telemetry-dashboard/))
+- **[angular-node-spa](https://github.com/PrimeGoose/angular-node-spa)** – Orbit: Angular 19 + NestJS project tracker SPA with JWT/RBAC, SQLite and Playwright e2e tests
+- **[rust-telemetry-service](https://github.com/PrimeGoose/rust-telemetry-service)** – Rust (Axum) telemetry ingest and query microservice with SQLite and OpenAPI
+- **[discord-bot-service](https://github.com/PrimeGoose/discord-bot-service)** – TypeScript discord.js v14 bot with slash commands, SQLite, scheduler and admin dashboard
 - **[kalnins-merch](https://github.com/PrimeGoose/kalnins-merch)** – Angular 17 + Supabase demo store ([live demo](https://primegoose.github.io/kalnins-merch/))
 - **[label_maker_tool](https://github.com/PrimeGoose/label_maker_tool)** – Angular tool that turns Excel lists into printable A4 label sheets ([live demo](https://primegoose.github.io/label_maker_tool/))
 - **[youtube_chat_in_twitch](https://github.com/PrimeGoose/youtube_chat_in_twitch)** – Chrome extension to toggle YouTube live chat on Twitch
